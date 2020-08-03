@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">layoutBasic</string>
+    <string name="app_bio">Layout yang mengatur anak-anaknya menjadi satu baris horizontal atau vertikal. Layout ini akan membuat scrollbar jika panjang jendela melebihi panjang layar</string>
 </resources>
